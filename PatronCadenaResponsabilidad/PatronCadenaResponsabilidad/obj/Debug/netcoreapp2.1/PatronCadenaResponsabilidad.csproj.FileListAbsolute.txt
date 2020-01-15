@@ -1,0 +1,11 @@
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\bin\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.deps.json
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\bin\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\bin\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\bin\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.dll
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\bin\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.pdb
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\obj\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.csprojAssemblyReference.cache
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\obj\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\obj\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\obj\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\obj\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.dll
+C:\Users\rabi.aranda\source\repos\PatronCadenaResponsabilidad\PatronCadenaResponsabilidad\obj\Debug\netcoreapp2.1\PatronCadenaResponsabilidad.pdb
